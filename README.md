@@ -5,7 +5,7 @@ Creating a fork is producing a personal copy of someone else's project. Forks ac
 After forking this repository, you can make some changes to the project, and submit a `Pull Request` as practice.
 
 
-# IPTV
+# :tv: IPTV
 
 Collection of 8000+ publicly available IPTV channels from all over the world. 
 
